@@ -1,0 +1,16 @@
+C:\Users\roger.DESKTOP-FT9COCG\Desktop\DIO\C#\Retrospectiva-C#\C#-retrospectiva\Retrospectiva\Retrospectiva\bin\Debug\net5.0\Retrospectiva.exe
+C:\Users\roger.DESKTOP-FT9COCG\Desktop\DIO\C#\Retrospectiva-C#\C#-retrospectiva\Retrospectiva\Retrospectiva\bin\Debug\net5.0\Retrospectiva.deps.json
+C:\Users\roger.DESKTOP-FT9COCG\Desktop\DIO\C#\Retrospectiva-C#\C#-retrospectiva\Retrospectiva\Retrospectiva\bin\Debug\net5.0\Retrospectiva.runtimeconfig.json
+C:\Users\roger.DESKTOP-FT9COCG\Desktop\DIO\C#\Retrospectiva-C#\C#-retrospectiva\Retrospectiva\Retrospectiva\bin\Debug\net5.0\Retrospectiva.runtimeconfig.dev.json
+C:\Users\roger.DESKTOP-FT9COCG\Desktop\DIO\C#\Retrospectiva-C#\C#-retrospectiva\Retrospectiva\Retrospectiva\bin\Debug\net5.0\Retrospectiva.dll
+C:\Users\roger.DESKTOP-FT9COCG\Desktop\DIO\C#\Retrospectiva-C#\C#-retrospectiva\Retrospectiva\Retrospectiva\bin\Debug\net5.0\ref\Retrospectiva.dll
+C:\Users\roger.DESKTOP-FT9COCG\Desktop\DIO\C#\Retrospectiva-C#\C#-retrospectiva\Retrospectiva\Retrospectiva\bin\Debug\net5.0\Retrospectiva.pdb
+C:\Users\roger.DESKTOP-FT9COCG\Desktop\DIO\C#\Retrospectiva-C#\C#-retrospectiva\Retrospectiva\Retrospectiva\obj\Debug\net5.0\Retrospectiva.csproj.AssemblyReference.cache
+C:\Users\roger.DESKTOP-FT9COCG\Desktop\DIO\C#\Retrospectiva-C#\C#-retrospectiva\Retrospectiva\Retrospectiva\obj\Debug\net5.0\Retrospectiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger.DESKTOP-FT9COCG\Desktop\DIO\C#\Retrospectiva-C#\C#-retrospectiva\Retrospectiva\Retrospectiva\obj\Debug\net5.0\Retrospectiva.AssemblyInfoInputs.cache
+C:\Users\roger.DESKTOP-FT9COCG\Desktop\DIO\C#\Retrospectiva-C#\C#-retrospectiva\Retrospectiva\Retrospectiva\obj\Debug\net5.0\Retrospectiva.AssemblyInfo.cs
+C:\Users\roger.DESKTOP-FT9COCG\Desktop\DIO\C#\Retrospectiva-C#\C#-retrospectiva\Retrospectiva\Retrospectiva\obj\Debug\net5.0\Retrospectiva.csproj.CoreCompileInputs.cache
+C:\Users\roger.DESKTOP-FT9COCG\Desktop\DIO\C#\Retrospectiva-C#\C#-retrospectiva\Retrospectiva\Retrospectiva\obj\Debug\net5.0\Retrospectiva.dll
+C:\Users\roger.DESKTOP-FT9COCG\Desktop\DIO\C#\Retrospectiva-C#\C#-retrospectiva\Retrospectiva\Retrospectiva\obj\Debug\net5.0\ref\Retrospectiva.dll
+C:\Users\roger.DESKTOP-FT9COCG\Desktop\DIO\C#\Retrospectiva-C#\C#-retrospectiva\Retrospectiva\Retrospectiva\obj\Debug\net5.0\Retrospectiva.pdb
+C:\Users\roger.DESKTOP-FT9COCG\Desktop\DIO\C#\Retrospectiva-C#\C#-retrospectiva\Retrospectiva\Retrospectiva\obj\Debug\net5.0\Retrospectiva.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retrospectiva", "Retrospectiva\Retrospectiva.csproj", "{A9C44397-4561-4761-AB26-D8125DD2ECFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C44397-4561-4761-AB26-D8125DD2ECFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C44397-4561-4761-AB26-D8125DD2ECFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C44397-4561-4761-AB26-D8125DD2ECFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C44397-4561-4761-AB26-D8125DD2ECFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C5FBF3E-E74B-4A94-B00B-00722531C99E}
+	EndGlobalSection
+EndGlobal
