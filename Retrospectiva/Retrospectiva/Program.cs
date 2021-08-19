@@ -41,6 +41,15 @@ namespace Retrospectiva
 
                     case "2":
                         // listar alunos
+                        foreach(var a in alunos)
+                        {
+                            //se o nome "!" não for nulo e nem for vazio imprima alunos 
+                            if (!string.IsNullOrEmpty(a.Nome))
+                            {
+                                Console.WriteLine($"ALUNO: {a.Nome} - NOTA: {a.Nota}");
+                            }
+                            
+                        }
                         break;
                     case "3":
                         //calcular média geral 
@@ -57,6 +66,7 @@ namespace Retrospectiva
 
         private static string obterOpcaoUsuario()
         {
+            Console.WriteLine();
             Console.WriteLine("Informe a opção desejada:");
             Console.WriteLine("1 - Inserir novo aluno");
             Console.WriteLine("2 - Listar alunos");
