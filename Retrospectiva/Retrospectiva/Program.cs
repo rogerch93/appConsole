@@ -6,6 +6,9 @@ namespace Retrospectiva
     {
         static void Main(string[] args)
         {
+            Aluno[] alunos = new Aluno[5];
+            var indiceAluno = 0;
+
             string opcaoUsuario = obterOpcaoUsuario();
 
             while (opcaoUsuario.ToUpper() != "X")
@@ -14,7 +17,28 @@ namespace Retrospectiva
                 {
                     case "1":
                         //Adc aluno
-                        break;
+                        Console.WriteLine("Informe o nome do aluno:");
+
+                        //instanciando a classe aluno...
+                        Aluno aluno = new Aluno();
+                        aluno.Nome = Console.ReadLine();
+
+                        Console.WriteLine("Informe a nota do aluno:");
+
+                        if (decimal.TryParse(Console.ReadLine(), out decimal nota))
+                        {
+                         aluno.Nota = nota ;
+                        }
+                        else
+                        {
+                            throw new ArgumentException("Valor da nota deve ser decimal");
+                        }
+
+                        alunos[indiceAluno] = aluno;
+                        indiceAluno++;
+
+                    break;
+
                     case "2":
                         // listar alunos
                         break;
